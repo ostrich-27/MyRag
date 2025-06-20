@@ -1,9 +1,5 @@
-from mychroma import *
+from token_tool import *
 
 
-U1 = MyChroma(r'./chroma/U1')
-U2 = QAUnit(r'./chroma/U2')
-
-
-
-
+if __name__ == '__main__':
+    main(0)
